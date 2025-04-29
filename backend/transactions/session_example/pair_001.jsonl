@@ -1,0 +1,2 @@
+{"session_id": "001", "pair_id": "001", "round": 1, "timestamp": "2025-03-20T10:15:32", "player_a_id": "a123", "player_a_profile": "risk_averse", "amount_sent": 4, "player_b_id": "b456", "player_b_profile": "pure_reciprocator", "amount_returned": 6}
+{"session_id": "001", "pair_id": "001", "round": 2, "timestamp": "2025-03-20T10:16:45", "player_a_id": "a123", "player_a_profile": "risk_averse", "amount_sent": 5, "player_b_id": "b456", "player_b_profile": "pure_reciprocator", "amount_returned": 8}

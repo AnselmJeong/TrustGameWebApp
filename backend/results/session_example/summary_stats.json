@@ -1,0 +1,3 @@
+session_id,round,avg_amount_sent,avg_percent_returned,avg_payoff_a,avg_payoff_b
+001,1,5.2,42.3,12.1,18.4
+001,2,6.1,48.7,13.9,18.2
